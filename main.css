@@ -1,0 +1,77 @@
+.entête {
+    background-color: black;   
+    color: white; 
+    height: 40px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+ a{
+    width: 150px;
+    justify-content:flex-end;
+    background-color: dimgray;
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    text-align: center;
+
+}
+h {
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: inline-block;
+}
+
+ .image a:hover {
+    text-decoration:underline;
+    
+}
+p{
+    padding: 10px;
+    width: 70%;
+
+}
+#d1{
+    width: 30%;
+    border:5px black solid;
+}
+.image{
+    display: flex;
+    justify-self: flex-start;
+    margin-top: 10px;
+    text-decoration: none;
+}
+#i1{
+   background-color: white; 
+   color: red;
+}
+#titre{
+    text-transform: uppercase;
+    text-align: center;
+
+}
+.pieddepage {
+    bottom: 0;
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    box-shadow: 5px;
+}
+#p{
+    color: gray;
+    background-color: black;
+}
+
+#image2 {
+    border:1px solid;
+    height: 60px;
+    width: 60px;
+    
+}
+.peiddepage a:hover {
+    text-decoration:underline;   
+}
